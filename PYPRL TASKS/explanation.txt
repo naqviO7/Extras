@@ -1,0 +1,60 @@
+BGCD.pl Explanation:
+Two variables have been defined to store values entered by the user.
+In Function sub, these variables have been processed through different conditions.
+Values in these variables are compared through each other and will perform different checks.
+After all these operations are performed, the result is returned.
+
+Command to RUN: perl BGCD.pl first_integer second_integer 
+
+BGCD.py Explanation:
+First we have made the run condition of the code. 
+If user doesnot run it in correct method. 
+It will not execute and will tell user to run it in correct way.
+Then two variables have been defined to store values entered by the user.
+In Function sub, these variables have been processed through different conditions.
+Values in these variables are compared through each other and will perform different checks.
+After all these operations are performed, the result is returned.
+
+Command to RUN: python BGCD.py first_integer second_integer
+
+FINDMI.pl Explanation:
+First we have made the run condition of the code. 
+If user doesnot run it in correct method. 
+It will not execute and will tell user to run it in correct way.
+Two variables of number  and mod have been made to store number and its mode Values.
+In function sub MI, thse variables have been passed through different conditions.
+If user enter number then its mode will be 0 and thsese condition have been set to execute result.
+After these execution result will be returned and will be displayed at function call.
+
+Command to RUN: perl FINDMI.pl first_integer second_integer
+
+FINDMI.py Explanation:
+First we have made the run condition of the code. 
+If user doesnot run it in correct method. 
+It will not execute and will tell user to run it in correct way.
+Two variables num and mode have been set to take values in commmand line arguments.
+MI fucntion will take two arguments num and mod.
+Docstring have been made to help user.
+Again these variables have been passed through different condition to take multiplicative inverse.
+If number is not 1 then it will not have any multiplicative inverse.
+Else function MI() is called to calculate multiplicative inverse.
+
+Command to RUN: python FINDMI.py first_integer second_integer
+
+GCD.pl Explanation:
+First we have made the run condition of the code. 
+If user doesnot run it in correct method. 
+It will not execute and will tell user to run it in correct way.
+There has been assigned specific address to store conditional arguments.
+In while loop then gcd has been calculated and result is displayed in print statement. 
+
+Command to RUN: perl GCD.pl first_integer second_integer
+
+GCD.py Explanation:
+First we have made the run condition of the code. 
+If user doesnot run it in correct method. 
+It will not execute and will tell user to run it in correct way.
+Variables a and b have given place in arguments.
+In while loop gcd have been calculated and result is displayed in print statement.
+
+Command to RUN: python GCD.py first_integer second_integer

@@ -1,0 +1,6 @@
+Client's Data
+ID: 190820	Name: Syed Saqlain Naqvi	Address: Chaklala Scheme III	Phone: 38278937293	Category: 1
+Client's Data
+ID: 190821	Name: Syed Saqlain	Address: Chakala Scheme	Phone: 3749384344	Category: 2
+Client's Data
+ID: 190822	Name: Saqlain Naqvi	Address: Chaklala	Phone: 23827382	Category: 3

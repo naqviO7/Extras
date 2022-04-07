@@ -1,0 +1,11 @@
+Algorthim For Bitwise AND OR XOR and NOT Operation
+
+Steps:
+-> input integer 1
+-> intput integer 2
+-> perform datatype check
+-> if both are integers execution continue 
+	-> else quit prgram
+-> convert both numbers to binary to perfrom bitwise operation
+-> code functions for each bitwise operation
+-> call each fucntion onthe basis of operation you want to perfrom

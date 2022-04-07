@@ -1,0 +1,67 @@
+1/La Trobe Uni Terminus/Science Dr/Bundoora
+2/La Trobe Uni Thomas Cherry Building/Science Dr/Bundoora
+3/Kingsbury Dr/Waterdale Rd/Bundoora
+4/Crissane Rd/Waterdale Rd/Heidelberg West
+5/Percy St/Waterdale Rd/Heidelberg West
+6/Waterdale Rd/Dougharty Rd/Heidelberg West
+7/Kolora Rd/Dougharty Rd/Heidelberg West
+8/Ramu Pde/Oriel Rd/Heidelberg West
+9/Outhwaite Rd/Oriel Rd/Heidelberg West
+10/Morobe St/Oriel Rd/Heidelberg West
+11/Malahang Reserve/Oriel Rd/Heidelberg West
+12/Malahang Pde/Oriel Rd/Heidelberg West
+13/Altona St/Oriel Rd/Heidelberg West
+14/The Mall/Oriel Rd/Heidelberg West
+15/Bell St/Oriel Rd/Bellfield/3081
+16/Harrison St/Oriel Rd/Bellfield/3081
+17/Perkins Ave/Oriel Rd/Bellfield/3081
+18/Banksia St/Oriel Rd/Ivanhoe
+19/Beatty St/Oriel Rd/Ivanhoe
+20/Hawker St/Oriel Rd/Ivanhoe
+21/Bond St/Oriel Rd/Ivanhoe
+22/Ford St/Oriel Rd/Ivanhoe
+23/Livingstone St/Oriel Rd/Ivanhoe
+24/Oriel Rd/Livingstone St/Ivanhoe
+25/Ford Cres/Darebin Rd/Fairfield
+26/Grange Rd/Darebin Rd/Fairfield
+27/National Bowls Centre/Darebin Rd/Fairfield
+28/Station St/Darebin Rd/Thornbury
+29/Wilmoth St/Darebin Rd/Thornbury
+30/Victoria Rd/Darebin Rd/Thornbury
+31/Christmas St/Victoria Rd/Northcote
+32/Northcote Aquatic Centre/Victoria Rd/Northcote
+33/Northcote Bowl/Victoria Rd/Northcote
+34/Mitchell St/Victoria Rd/Northcote
+35/Bastings St/Victoria Rd/Northcote
+36/Clarke St/Victoria Rd/Northcote
+37/Dennis Railway Station/Victoria Rd/Northcote
+38/Westgarth St/Victoria Rd/Northcote
+39/Simpson St/Westgarth St/Northcote
+40/Northcote Park/Westgarth St/Northcote
+41/Westgarth Railway Station/Westgarth St/Northcote
+42/High St/Westgarth St/Northcote
+43/Cunningham St/High St/Northcote
+44/Clifton Hill Interchange/Queens Pde/Clifton Hill
+45/Rowe St/Rushall Cres/Fitzroy North
+46/Rushall Railway Station/Rushall Cres/Fitzroy North
+47/Park St/Bennett St/Fitzroy North
+48/St Georges Rd/Holden St/Fitzroy North
+49/Porter St/Holden St/Fitzroy North
+50/Nicholson St/Holden St/Fitzroy North
+51/Amess St/Brunswick Rd/Brunswick East
+52/Park St/Rathdowne St/Carlton North
+53/Pigdon St/Rathdowne St/Carlton North
+54/Carlton North Post Office/Rathdowne St/Carlton North
+55/Fenwick St/Rathdowne St/Carlton North
+56/Curtain Square/Rathdowne St/Carlton North
+57/O'Grady St/Rathdowne St/Carlton North
+58/Carlton Baths/Rathdowne St/Carlton
+59/Pitt St/Rathdowne St/Carlton
+60/Elgin St/Rathdowne St/Carlton
+61/Carlton Gardens/Rathdowne St/Carlton
+62/Exhibition Building/Rathdowne St/Carlton
+63/Exhibition St/Lonsdale St/Melbourne City
+64/Melbourne Central/Lonsdale St/Melbourne City
+65/Elizabeth St/Lonsdale St/Melbourne City
+66/Little Bourke St/Queen St/Melbourne City
+67/Little Collins St/Queen St/Melbourne City
