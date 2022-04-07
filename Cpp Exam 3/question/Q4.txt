@@ -1,0 +1,3 @@
+A palindrome is a string that reads the same forwards as backwards e.g. madam, civic etc. Assume that the string is read from standard input one character at a time. The algorithm should return true or false as appropriate.
+
+DEQUE is generalization of both STACK and QUEUE. Write the computer program using DEQUE to determine if a string is a palindrome or not

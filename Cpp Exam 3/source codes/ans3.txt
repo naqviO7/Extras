@@ -1,0 +1,7 @@
+We cannot apply standard search on BST.
+In Bst first we have to look in root and then in child.
+Searching is Complex in BST.
+Reason Array Will be Better:
+If we made array of 10 then it will be easy and fast to look for record.
+Its time complexity decreases because we have to serach from one index to specific index by incrementing.
+Time Complextity will be Big O(1).
