@@ -1,0 +1,1 @@
+you have to take 3 commands from user and pipthem in bash shell script. Also check if user is a root user
