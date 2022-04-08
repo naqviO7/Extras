@@ -1,0 +1,12 @@
+:NOM Prenom:CODE                :.Tp1 :.Intra:.Tp2 :.Tp3 :.Final :.TP4 
+actarusx:Actarus  :ACTA28658105 : 45.5: 75.00:100.0: 95.0:  48.50: 90.0:     
+alcorxxx:Alcor    :ALCO18083408 : 83.0: 64.75: 95.0: 87.5:  74.00: 97.0:  
+venusiax:Venusia  :VENU13097708 : 83.0: 55.00: 95.0: 87.5:  41.50: 97.0:       
+phenicia:Phenicia :PHEN14100790 : 94.0: 50.50: 95.0: 95.0:  59.50: 99.0:   
+mizarxxx:Mizar    :MIZA22128106 : 98.0: 95.50: 95.0:100.0:  80.50: 90.0:     
+procyonx:Procyon  :PROC01033701 : 99.0: 99.50:100.0: 95.0:  98.00:100.0:       
+flamxxxx:Flam     :FLAM26077904 : 89.0: 37.25: 97.5: 87.5:  63.50: 97.0:     
+johannxx:johann   :JOHA23058000 : 94.0: 99.25:100.0: 95.0:  36.00:100.0:     
+wrightxx:Wright   :WRIG21058103 : 99.0: 100.0:100.0:100.0:  100.0: 97.0:    
+cragxxxx:Grag     :CRAG05018002 : 99.0: 90.00: 90.0:100.0:  97.00: 99.0:      
+malaxxxx:Mala     :MALA09557914 : 96.0: 69.50:100.0:100.0:  34.00: 47.0
