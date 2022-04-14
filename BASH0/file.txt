@@ -1,0 +1,2 @@
+a. ESC followed by :12 followed by 3yy followed by g followed by p
+$ awk 'print{$}-f:':'||print{3}-f:yy' > file
